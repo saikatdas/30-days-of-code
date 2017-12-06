@@ -10,7 +10,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class SolutionDataType {
 	
     public static void main(String[] args) {
         int i = 4;
